@@ -16,7 +16,21 @@ console.log(c);
 // const age = prompt("How old are you?");
 // console.log(age);
 
-const isBoss = confirm("Are you the boss");
-console.log(isBoss);
+// const isBoss = confirm("Are you the boss");
+// console.log(isBoss);
 
+let x=1;
+if(x==1)
+{
+    console.log("if x==1");
+}
 
+if(x===1 && y===2)
+{
+    console.log("&& operator tested");
+}
+
+if((x=1) || (y=2))
+{
+    console.log("||Operator is tested")
+}
