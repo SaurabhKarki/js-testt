@@ -1,9 +1,1 @@
-# js-testt
-
-Hi! My name is Saurabh Karki and this is our new changes, the first and foremost changes. We are adding this part into the github repository. Sir doesn't care whatever we write here. And the, first thing we are supposed to do is save. i.e. ctrl+s.
-
-
-asdfjasdjkfadls
-Hi from Himalaya College of Engineering!!!
-
-
+So, we are basically learning about Javascript and this is the file created during the time of our initial days. Hopefully, everything works out well for myself when I'll be learning these tutorial. I hope you'll have a good day, whoever is going through the repository as well. :D
