@@ -41,3 +41,11 @@ if(!x)
 }
 
 
+if(x==1)
+{
+    console.log("x is 1");
+ } else {
+    console.log("x is not 1");
+ }
+
+ let result = x ===1 ? "x is 1" : "x is not 1";
