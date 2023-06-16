@@ -32,5 +32,11 @@ if(x===1 && y===2)
 
 if((x=1) || (y=2))
 {
-    console.log("||Operator is tested")
+    console.log("||Operator is tested");
 }
+
+if(!x)
+{
+    console.log("x is not true");
+}
+
